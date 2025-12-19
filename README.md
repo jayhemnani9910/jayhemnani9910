@@ -1,39 +1,39 @@
 # Jay Hemnani
 
-**Data Engineer** | Computer Vision • Machine Learning • Data Engineering • Backend/APIs
+**Data Engineer** | MS Applied Data Intelligence @ San Jose State University
 
-I build production-grade data and ML systems that solve real-world problems. Focused on computer vision pipelines, data infrastructure, and scalable backends. Currently exploring the intersection of LLMs, computer vision, and knowledge representation.
+Building data pipelines, ML systems, and backend infrastructure. Focused on streaming architectures, computer vision, and distributed systems.
 
-[Website](https://jayhemnani.me) • [LinkedIn](#) • [Email](#)
+[Website](https://jayhemnani.me) • [Email](mailto:jayhemnani992000@gmail.com)
 
 ---
 
 ## Featured Projects
 
 ### [fifa-soccer-ds](https://github.com/jayhemnani9910/fifa-soccer-ds)
-Production computer vision pipeline for soccer video analysis. Multi-model tracking system combining YOLO detection, ByteTrack tracking, and GraphSAGE embeddings served via FastAPI with MLflow experiment tracking.
+Computer vision pipeline for soccer video analysis. Multi-model tracking with YOLO detection, ByteTrack, and GraphSAGE embeddings served via FastAPI.
 
-**Tech:** YOLO • ByteTrack • GraphSAGE • FastAPI • MLflow • Docker
+**Stack:** YOLO • ByteTrack • GraphSAGE • FastAPI • MLflow • Docker
 
 ### [soccer-vision-research](https://github.com/jayhemnani9910/soccer-vision-research)
-Multi-model computer vision research exploring state-of-the-art detection and segmentation architectures for sports analytics. Benchmarks and experiments with RF-DETR, SAM2, and SigLIP.
+Detection and segmentation experiments for sports analytics. Benchmarks with RF-DETR, SAM2, and SigLIP architectures.
 
-**Tech:** PyTorch • RF-DETR • SAM2 • SigLIP • Weights & Biases
+**Stack:** PyTorch • RF-DETR • SAM2 • SigLIP • Weights & Biases
 
 ### [contextbox](https://github.com/jayhemnani9910/contextbox)
-Memory application combining screenshot capture, optical character recognition, and LLM-powered context understanding. Personal knowledge assistant with semantic search.
+Screenshot capture with OCR and LLM-powered context retrieval. Semantic search over personal knowledge base.
 
-**Tech:** Python • LLMs • OCR • PostgreSQL • FastAPI
+**Stack:** Python • LLMs • OCR • PostgreSQL • FastAPI
 
 ### [nobel-dataintelligence](https://github.com/jayhemnani9910/nobel-dataintelligence)
-Graph neural networks for molecular biology. PyTorch Geometric implementation for molecular property prediction and structure analysis.
+Graph neural networks for molecular property prediction. PyTorch Geometric implementation for structure analysis.
 
-**Tech:** PyTorch Geometric • Graph Neural Networks • Chemistry
+**Stack:** PyTorch Geometric • GNNs • Molecular Chemistry
 
 ### [webcrawler](https://github.com/jayhemnani9910/webcrawler)
-Website archiver with intelligent change detection. Tracks web content modifications and maintains versioned snapshots.
+Web archiver with change detection. Tracks content modifications and maintains versioned snapshots.
 
-**Tech:** Python • Web Scraping • Data Archival
+**Stack:** Python • Web Scraping • Data Archival
 
 ---
 
@@ -48,23 +48,21 @@ Website archiver with intelligent change detection. Tracks web content modificat
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![PyTorch_Geometric](https://img.shields.io/badge/PyTorch%20Geometric-12100E?style=flat&logo=pytorch&logoColor=white)
 
-**Data & Experiment Tracking**
+**Data Engineering**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
 
 **Backend & DevOps**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-## GitHub Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayhemnani9910&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
@@ -72,15 +70,6 @@ Website archiver with intelligent change detection. Tracks web content modificat
 
 ---
 
-## Let's Connect
+**Open to:** Data Engineering, ML Infrastructure, Backend roles
 
-I'm interested in opportunities involving:
-- Data engineering at scale
-- Production ML/CV systems
-- Backend infrastructure and APIs
-- Technical leadership in data-driven teams
-
-Feel free to reach out:
-- **Website:** [jayhemnani.me](https://jayhemnani.me)
-
----
+[jayhemnani.me](https://jayhemnani.me)

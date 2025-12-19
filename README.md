@@ -1,5 +1,3 @@
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-2ea44f?style=for-the-badge)](https://jayhemnani.me)
-
 # Jay Hemnani
 
 **Data Engineer** | Computer Vision • Machine Learning • Data Engineering • Backend/APIs

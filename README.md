@@ -1,6 +1,6 @@
 # Jay Hemnani
 
-**Data Engineer** | MS Applied Data Intelligence @ San Jose State University
+**Data Engineer**
 
 Building data pipelines, ML systems, and backend infrastructure. Focused on streaming architectures, computer vision, and distributed systems.
 

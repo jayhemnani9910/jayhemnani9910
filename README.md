@@ -1,75 +1,77 @@
 # Jay Hemnani
 
-**Data Engineer**
+**Building data systems that see, stream, and scale.**
 
-Building data pipelines, ML systems, and backend infrastructure. Focused on streaming architectures, computer vision, and distributed systems.
+I engineer production ML pipelines, real-time data platforms, and developer tools. Most of my work sits at the intersection of computer vision, streaming architectures, and applied AI — with a soft spot for sports analytics.
 
-[Website](https://jayhemnani.me) • [Email](mailto:jayhemnani992000@gmail.com)
+[![Website](https://img.shields.io/badge/jayhemnani.me-000?style=flat&logo=safari&logoColor=white)](https://jayhemnani.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayhemnani992000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayhemnani)
 
 ---
 
 ## Featured Projects
 
-### [fifa-soccer-ds](https://github.com/jayhemnani9910/fifa-soccer-ds)
-Computer vision pipeline for soccer video analysis. Multi-model tracking with YOLO detection, ByteTrack, and GraphSAGE embeddings served via FastAPI.
+### [fifa-soccer-ds](https://github.com/jayhemnani9910/fifa-soccer-ds) — Soccer Video Analysis Pipeline
 
-**Stack:** YOLO • ByteTrack • GraphSAGE • FastAPI • MLflow • Docker
+End-to-end CV system for real-time soccer analysis. Fine-tuned YOLOv8 for player/ball/referee detection, ByteTrack for multi-object tracking, and GraphSAGE neural networks for tactical pattern recognition. Served via FastAPI with MLflow experiment tracking.
 
-### [soccer-vision-research](https://github.com/jayhemnani9910/soccer-vision-research)
-Detection and segmentation experiments for sports analytics. Benchmarks with RF-DETR, SAM2, and SigLIP architectures.
+`YOLOv8` `ByteTrack` `GraphSAGE` `FastAPI` `MLflow` `DVC` `Docker`
 
-**Stack:** PyTorch • RF-DETR • SAM2 • SigLIP • Weights & Biases
+### [soccer-vision-research](https://github.com/jayhemnani9910/soccer-vision-research) — Vision Model Benchmarks for Sports
 
-### [contextbox](https://github.com/jayhemnani9910/contextbox)
-Screenshot capture with OCR and LLM-powered context retrieval. Semantic search over personal knowledge base.
+Benchmarking RF-DETR, SAM2, SigLIP, and YOLOv8 architectures for soccer player detection and segmentation. Includes reproducible experiments and a [live demo](https://jayhemnani9910.github.io/soccer-vision-research/).
 
-**Stack:** Python • LLMs • OCR • PostgreSQL • FastAPI
+`PyTorch` `RF-DETR` `SAM2` `SigLIP` `W&B`
 
-### [nobel-dataintelligence](https://github.com/jayhemnani9910/nobel-dataintelligence)
-Graph neural networks for molecular property prediction. PyTorch Geometric implementation for structure analysis.
+### [contextbox](https://github.com/jayhemnani9910/contextbox) — AI-Powered Context Capture
 
-**Stack:** PyTorch Geometric • GNNs • Molecular Chemistry
+Developer tool for capturing screenshots, extracting web content, and querying your work context with semantic search. Supports multiple LLM backends with zero API cost via GitHub Models.
 
-### [webcrawler](https://github.com/jayhemnani9910/webcrawler)
-Web archiver with change detection. Tracks content modifications and maintains versioned snapshots.
+`Python` `LLMs` `OCR` `Semantic Search` `FastAPI`
 
-**Stack:** Python • Web Scraping • Data Archival
+### [voxt](https://github.com/jayhemnani9910/voxt) — Voice-to-Text Clipboard Tool
+
+Linux CLI tool written in Go. Global hotkey triggers recording, Groq Whisper transcribes, result lands in your clipboard. System tray integration, SQLite history, Wayland + X11 support.
+
+`Go` `Whisper` `PortAudio` `DBus` `SQLite`
+
+### [stock-data-platform](https://github.com/jayhemnani9910/stock-data-platform) — Real-Time Stock Data Pipeline
+
+Streaming data platform with Kafka producers/consumers, PostgreSQL persistence, and Airflow DAGs for orchestration. Fully containerized with Docker Compose.
+
+`Kafka` `Airflow` `PostgreSQL` `Docker` `Python`
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Languages**&ensp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**ML & Computer Vision**
+**ML & Vision**&ensp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
-**Data Engineering**
+**Data Engineering**&ensp;
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Backend & DevOps**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**Infrastructure**&ensp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
 
-## Stats
+**Currently open to:** Data Engineering, ML Infrastructure, and Backend roles — remote or India-based.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayhemnani9910&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayhemnani9910&layout=compact&theme=dark&hide_border=true)
-
----
-
-**Open to:** Data Engineering, ML Infrastructure, Backend roles
-
-[jayhemnani.me](https://jayhemnani.me)
+[![Portfolio](https://img.shields.io/badge/See_my_full_portfolio-jayhemnani.me-blue?style=for-the-badge)](https://jayhemnani.me)

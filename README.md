@@ -4,7 +4,7 @@
 
 I engineer production ML pipelines, real-time data platforms, and developer tools. Most of my work sits at the intersection of computer vision, streaming architectures, and applied AI — with a soft spot for sports analytics.
 
-[![Website](https://img.shields.io/badge/jayhemnani.me-000?style=flat&logo=safari&logoColor=white)](https://jayhemnani.me)
+[![Website](https://img.shields.io/badge/jayhemnani.in-000?style=flat&logo=safari&logoColor=white)](https://jayhemnani.in)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayhemnani992000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayhemnani)
 
@@ -75,12 +75,13 @@ Streaming data platform with Kafka producers/consumers, PostgreSQL persistence, 
 ## Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg">
 </picture>
 
 ---
 
 **Currently open to:** Data Engineering, ML Infrastructure, and Backend roles — remote or India-based.
 
-[![Portfolio](https://img.shields.io/badge/See_my_full_portfolio-jayhemnani.me-blue?style=for-the-badge)](https://jayhemnani.me)
+[![Portfolio](https://img.shields.io/badge/See_my_full_portfolio-jayhemnani.in-blue?style=for-the-badge)](https://jayhemnani.in)

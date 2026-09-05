@@ -75,9 +75,9 @@ Streaming data platform with Kafka producers/consumers, PostgreSQL persistence, 
 ## Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake-dark.svg?v=ember">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg?v=ember">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg?v=ember">
 </picture>
 
 ---

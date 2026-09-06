@@ -2,7 +2,7 @@
 
 **Building data systems that see, stream, and scale.**
 
-I engineer production ML pipelines, real-time data platforms, and developer tools. Most of my work sits at the intersection of computer vision, streaming architectures, and applied AI — with a soft spot for sports analytics.
+I engineer production ML pipelines, real-time data platforms, and developer tools. Most of my work sits at the intersection of computer vision, streaming architectures, and applied AI - with a soft spot for sports analytics.
 
 [![Website](https://img.shields.io/badge/jayhemnani.in-000?style=flat&logo=safari&logoColor=white)](https://jayhemnani.in)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayhemnani992000@gmail.com)
@@ -12,7 +12,7 @@ I engineer production ML pipelines, real-time data platforms, and developer tool
 
 ## Featured Projects
 
-### [fifa-soccer-ds](https://github.com/jayhemnani9910/fifa-soccer-ds) — Soccer Video Analysis Pipeline
+### [fifa-soccer-ds](https://github.com/jayhemnani9910/fifa-soccer-ds) - Soccer Video Analysis Pipeline
 
 End-to-end CV system for real-time soccer analysis. Fine-tuned YOLOv8 for player/ball/referee detection, ByteTrack for multi-object tracking, and GraphSAGE neural networks for tactical pattern recognition. Served via FastAPI with MLflow experiment tracking.
 
@@ -24,19 +24,19 @@ Benchmarking RF-DETR, SAM2, SigLIP, and YOLOv8 architectures for soccer player d
 
 `PyTorch` `RF-DETR` `SAM2` `SigLIP` `W&B`
 
-### [contextbox](https://github.com/jayhemnani9910/contextbox) — AI-Powered Context Capture
+### [contextbox](https://github.com/jayhemnani9910/contextbox) - AI-Powered Context Capture
 
 Developer tool for capturing screenshots, extracting web content, and querying your work context with semantic search. Supports multiple LLM backends with zero API cost via GitHub Models.
 
 `Python` `LLMs` `OCR` `Semantic Search` `FastAPI`
 
-### [voxt](https://github.com/jayhemnani9910/voxt) — Voice-to-Text Clipboard Tool
+### [voxt](https://github.com/jayhemnani9910/voxt) - Voice-to-Text Clipboard Tool
 
 Linux CLI tool written in Go. Global hotkey triggers recording, Groq Whisper transcribes, result lands in your clipboard. System tray integration, SQLite history, Wayland + X11 support.
 
 `Go` `Whisper` `PortAudio` `DBus` `SQLite`
 
-### [stock-data-platform](https://github.com/jayhemnani9910/stock-data-platform) — Real-Time Stock Data Pipeline
+### [stock-data-platform](https://github.com/jayhemnani9910/stock-data-platform) - Real-Time Stock Data Pipeline
 
 Streaming data platform with Kafka producers/consumers, PostgreSQL persistence, and Airflow DAGs for orchestration. Fully containerized with Docker Compose.
 
@@ -82,6 +82,6 @@ Streaming data platform with Kafka producers/consumers, PostgreSQL persistence, 
 
 ---
 
-**Currently open to:** Data Engineering, ML Infrastructure, and Backend roles — remote or India-based.
+**Currently open to:** Data Engineering, ML Infrastructure, and Backend roles - remote or India-based.
 
 [![Portfolio](https://img.shields.io/badge/See_my_full_portfolio-jayhemnani.in-blue?style=for-the-badge)](https://jayhemnani.in)

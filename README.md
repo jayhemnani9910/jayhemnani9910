@@ -107,6 +107,16 @@ In review: Model Context Protocol servers and Python SDK, PostHog, Caddy, DSPy, 
 
 ---
 
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake-dark.svg?v=ember2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg?v=ember2">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/jayhemnani9910/jayhemnani9910/output/github-snake.svg?v=ember2">
+</picture>
+
+---
+
 <div align="center">
 
 **Open to** data engineering, ML infrastructure, and backend roles, remote or India-based.

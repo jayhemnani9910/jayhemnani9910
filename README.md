@@ -22,7 +22,7 @@ Computer vision, streaming, and applied AI, with a soft spot for sports analytic
 <td width="50%" valign="top">
 
 ### ⚽ [fifa-soccer-ds](https://github.com/jayhemnani9910/fifa-soccer-ds)
-Real-time soccer video analysis. Fine-tuned YOLOv8 finds players, ball, and referee. ByteTrack follows them across frames. GraphSAGE picks out tactical patterns. Served with FastAPI and tracked in MLflow.
+Soccer video pipeline. YOLO finds players and the ball, a ByteTrack-style tracker follows them across frames, and the tracks become graphs of player movement for a GraphSAGE model. FastAPI serves batch and live video. MLflow is optional.
 
 `YOLOv8` `ByteTrack` `GraphSAGE` `FastAPI` `MLflow` `DVC`
 
@@ -30,9 +30,9 @@ Real-time soccer video analysis. Fine-tuned YOLOv8 finds players, ball, and refe
 <td width="50%" valign="top">
 
 ### 🎯 [soccer-vision-research](https://github.com/jayhemnani9910/soccer-vision-research)
-Benchmarks RF-DETR, SAM2, SigLIP, and YOLOv8 on soccer player detection and segmentation, with reproducible experiments.
+Soccer video experiments. One tool picks keyframes from a match video and has a vision model describe them. The other is an early player recognition package with no trained weights yet.
 
-`PyTorch` `RF-DETR` `SAM2` `SigLIP` `W&B`<br>
+`PyTorch` `RF-DETR` `SAM2` `Qwen2-VL` `SQLite`<br>
 **[Live demo →](https://jayhemnani9910.github.io/soccer-vision-research/)**
 
 </td>
@@ -41,7 +41,7 @@ Benchmarks RF-DETR, SAM2, SigLIP, and YOLOv8 on soccer player detection and segm
 <td width="50%" valign="top">
 
 ### 🧬 [biotech-accelerator](https://github.com/jayhemnani9910/biotech-accelerator)
-Multi-agent research system for biology. It doesn't just read papers: it pulls PDB structures, runs flexibility analysis, cross-checks the literature, and suggests experiments.
+Multi-agent research system for biology. Ask about a protein and it pulls PDB structures, runs flexibility analysis, checks the literature, and suggests experiments.
 
 `LangGraph` `Multi-agent` `PubMed` `UniProt` `ChEMBL`<br>
 **[Live demo →](https://jayhemnani9910.github.io/biotech-accelerator/)**
@@ -69,7 +69,7 @@ Real-time stock pipeline. Kafka streams ticks for 10 tickers, Airflow orchestrat
 <td width="50%" valign="top">
 
 ### ✈️ [travel-booking-platform](https://github.com/jayhemnani9910/travel-booking-platform)
-Flights, hotels, cars, deals, and billing as 14 microservices that talk over Kafka, run on Kubernetes, and sit behind a React client.
+Flights, hotels, cars, deals, and billing as 13 services that talk over Kafka, run on Kubernetes, and sit behind a React client.
 
 `TypeScript` `Kafka` `Kubernetes` `MongoDB` `React`
 
@@ -78,7 +78,7 @@ Flights, hotels, cars, deals, and billing as 14 microservices that talk over Kaf
 </table>
 
 **More:** [nobel-dataintelligence](https://github.com/jayhemnani9910/nobel-dataintelligence) (protein stability from molecular vibrations) ·
-[contextbox](https://github.com/jayhemnani9910/contextbox) (AI context capture for developers) ·
+[contextbox](https://github.com/jayhemnani9910/contextbox) (screenshot from the terminal, pull out text and links, search later) ·
 [voxt](https://github.com/jayhemnani9910/voxt) (voice-to-clipboard for Linux, in Go) ·
 [revolu-idea](https://github.com/jayhemnani9910/revolu-idea) (multi-agent deep research)
 
@@ -89,9 +89,9 @@ Flights, hotels, cars, deals, and billing as 14 microservices that talk over Kaf
 I fix bugs in tools I use. Merged so far:
 
 - **[lightpanda-io/browser](https://github.com/lightpanda-io/browser/pulls?q=is%3Apr+author%3Ajayhemnani9910+is%3Amerged)**: headless browser for AI. CSS selector spec fixes, Web API behavior, and CDP input events.
-- **[Effect-TS/effect](https://github.com/Effect-TS/effect/pulls?q=is%3Apr+author%3Ajayhemnani9910+is%3Amerged)**: TOML and YAML parsing edge cases.
+- **[Effect-TS/effect](https://github.com/Effect-TS/effect/pulls?q=is%3Apr+author%3Ajayhemnani9910+is%3Amerged)**: TOML and YAML parsing edge cases, HTTP client and OTLP export fixes.
 
-In review: Model Context Protocol servers and Python SDK, PostHog, Caddy, DSPy, Modular (Mojo), GitHub MCP Server.
+Also merged in radare2, SeaweedFS, uutils, Caddy, DSPy, the MCP Python SDK, and GitHub MCP Server.
 
 ---
 
